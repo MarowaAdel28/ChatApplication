@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/62193989/219803179-ece3bb49-6a16-43fc-
 # Team members:
 - [Mohamed Gomaa  ](https://github.com/mohamedgomaa23722)
 - [Ahmed Gaber Rohouma  ](https://github.com/Rohouma)
-- [Hazem Abdelmouez  ]()
+- [Hazem Abdelmouez  ](https://github.com/HazemAbdelmouez)
 - [Hana Alaa Mohamed   ](https://github.com/Hana-20)
 - [Marwa Adel  ](https://github.com/MarowaAdel28)
 
